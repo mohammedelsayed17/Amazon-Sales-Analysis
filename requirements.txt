@@ -1,9 +1,11 @@
 streamlit
-PIL
+pandas
+numpy
+matplotlib
+plotly
+Pillow
 Image
 requests
 streamlit_lottie
-pandas
-numpy
 matplotlib.pyplot
 plotly.express
