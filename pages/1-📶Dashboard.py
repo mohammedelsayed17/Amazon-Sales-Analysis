@@ -18,7 +18,7 @@ def load_data():
         "Sales_July_2019.csv", "Sales_August_2019.csv", "Sales_September_2019.csv",
         "Sales_October_2019.csv", "Sales_November_2019.csv", "Sales_December_2019.csv"
     ]
-    All_Data = pd.concat([pd.read_csv(f"E:/amazon data/{file}") for file in files], ignore_index=True)
+    All_Data = pd.concat([pd.read_csv(f"amazon data/{file}") for file in files], ignore_index=True)
     return All_Data
 
 All_Data = load_data()
