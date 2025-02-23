@@ -1,0 +1,9 @@
+streamlit
+PIL
+Image
+requests
+streamlit_lottie
+pandas
+numpy
+matplotlib.pyplot
+plotly.express
