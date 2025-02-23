@@ -30,4 +30,4 @@ with st.container():
         # st_lottie(lottie_coding, height=350, key="coding")
         # st.image(img_rezie,caption="this is mona picture",use_container_width=True)
         # st.video("cafe.mp4")
-        st.image(r'E:\sale.gif')
+        st.image('sale.gif')
