@@ -4,8 +4,6 @@ numpy
 matplotlib
 plotly
 Pillow
-Image
 requests
 streamlit_lottie
-matplotlib.pyplot
 plotly.express
